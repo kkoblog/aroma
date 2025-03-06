@@ -6,8 +6,8 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "StreamLine - ワークフローを効率化するプラットフォーム",
-  description: "チームのコラボレーション、自動化、そして迅速な結果を実現するオールインワンプラットフォーム",
+  title: "アロマ香水アンケート",
+  description: "彼の臭いが気になる・・・。そんなあなたに、たった３問のアンケートに答えて、アロマ香水を試してみよう",
     generator: 'v0.dev'
 }
 
