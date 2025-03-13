@@ -8,7 +8,12 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "アロマ香水アンケート",
   description: "彼の臭いが気になる・・・。そんなあなたに、たった３問のアンケートに答えて、アロマ香水を試してみよう",
-    generator: 'v0.dev'
+  generator: 'v0dev',
+  viewport: {
+    width: 'device-width',
+    initialScale: 1,
+    maximumScale: 1
+  }
 }
 
 export default function RootLayout({
